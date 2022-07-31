@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Ainiasim5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Quratul Ain
+- 👀 I’m interested in technologies,networking,cyber security
+- 🌱 I passed CCNA and AZURE 
+- 🌱 I’ve knowldge about python,html,css,java script still learning other skills in TECH TALENT ACADEMY.
+- 💞️ I’m currently looking for new opertunities to use my skills.
+- 📫 How to reach @ainiasim5@gmail.com
 
 <!---
 Ainiasim5/Ainiasim5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
